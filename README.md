@@ -13,19 +13,28 @@ Sleep Disorder Analysis: Identify the occurrence of sleep disorders such as Inso
 
 Dataset Columns:
 
-Person ID: An identifier for each individual.
-Gender: The gender of the person (Male/Female).
-Age: The age of the person in years.
-Occupation: The occupation or profession of the person.
-Sleep Duration (hours): The number of hours the person sleeps per day.
-Quality of Sleep (scale: 1-10): A subjective rating of the quality of sleep, ranging from 1 to 10.
-Physical Activity Level (minutes/day): The number of minutes the person engages in physical activity daily.
-Stress Level (scale: 1-10): A subjective rating of the stress level experienced by the person, ranging from 1 to 10.
-BMI Category: The BMI category of the person (e.g., Underweight, Normal, Overweight).
-Blood Pressure (systolic/diastolic): The blood pressure measurement of the person, indicated as systolic pressure over diastolic pressure.
-Heart Rate (bpm): The resting heart rate of the person in beats per minute.
-Daily Steps: The number of steps the person takes per day.
-Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
+* Person ID: An identifier for each individual.
+* Gender: The gender of the person (Male/Female).
+* Age: The age of the person in years.
+* Occupation: The occupation or profession of the person.
+* Sleep Duration (hours): The number of hours the person sleeps per day.
+* Quality of Sleep (scale: 1-10): A subjective rating of the quality of sleep, ranging from 1 to 10.
+* Physical Activity Level (minutes/day): The number of minutes the person engages in physical activity daily.
+* Stress Level (scale: 1-10): A subjective rating of the stress level experienced by the person, ranging from 1 to 10.
+* BMI Category: The BMI category of the person (e.g., Underweight, Normal, Overweight).
+* Blood Pressure (systolic/diastolic): The blood pressure measurement of the person, indicated as systolic pressure over diastolic pressure.
+* Heart Rate (bpm): The resting heart rate of the person in beats per minute.
+* Daily Steps: The number of steps the person takes per day.
+* Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
+
+Analysis Questions:
+
+
+* What factors are negatively impacting quality of sleep?
+* Do high levels of physical activity level impact sleep?
+* How does stress level impact quality of sleep?
+* How did occupation effect quatlity of sleep?
+* How can patients sleep health improve?
 
 Dataset Source:
 
