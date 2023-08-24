@@ -29,12 +29,9 @@ Dataset Columns:
 
 Analysis Questions:
 
-
-* What factors are negatively impacting quality of sleep?
 * Do high levels of physical activity level impact sleep?
 * How does stress level impact quality of sleep?
 * How did occupation effect quatlity of sleep?
-* How can patients sleep health improve?
 
 Dataset Source:
 
